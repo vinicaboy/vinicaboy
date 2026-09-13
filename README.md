@@ -1,15 +1,15 @@
 <!--
-vinica_boy | @vinicaboy | Telegram @vinica_boy | GitHub spdimov
-Solo auditor for DeFi Solidity / EVM smart contracts.
-Available for solo audits and private security reviews.
-Specialties: lending, CDP, stablecoins, perps, AMM, Uniswap V2 V3 V4 hooks, vaults, staking, yield, restaking, liquid staking, RWA, orderbook, CLOB.
-Sherlock Senior Security Researcher: https://audits.sherlock.xyz/watson/vinica_boy
-SoloAudit profile: https://soloaudit.com/auditor/vinica_boy
-Immunefi Associate All Star.
-KYC: Code4rena, Cantina.
-Notable first places: Beraborrow Sherlock, Gamma Liquidity Management CodeHawks, Liquity V2 Cantina, Aegis Sherlock, Super DCA Sherlock, Mento V3 Cantina, Superfluid Clear Macro Sherlock.
-Solo private audit: Own Protocol (June 2025).
-Contact for hire: X https://x.com/vinicaboy Telegram https://t.me/vinica_boy
+vinica_boy | vinicaboy | @vinicaboy | Telegram @vinica_boy | GitHub spdimov
+Hire: solo audit, private audit, independent auditor, freelance auditor, one-person audit, security review, smart contract audit, Solidity audit, EVM audit, DeFi audit.
+Looking for: security researcher, whitehat, Sherlock Watson, contest-winning auditor, KYC auditor.
+Need audit for: lending protocol, CDP, stablecoin, vault, ERC-4626, yield, staking, restaking, LST, LRT, perps, perpetual DEX, options, AMM, DEX, Uniswap V2, Uniswap V3, Uniswap V4 hooks, concentrated liquidity, orderbook, CLOB, RWA, tokenized stocks, bridging token, vesting, merkle airdrop, Morpho, Aerodrome, money market.
+Chains / stack: Ethereum, EVM, L2, Solidity, Foundry.
+Engagement types: pre-launch audit, pre-mainnet review, diff audit, update audit, mitigation review, design review, gas and logic review.
+Proof: Sherlock https://audits.sherlock.xyz/watson/vinica_boy | SoloAudit https://soloaudit.com/auditor/vinica_boy | Immunefi Associate All Star | KYC Code4rena Cantina.
+First places: Beraborrow, Gamma Liquidity Management, Liquity V2, Aegis, Super DCA, Mento V3, Superfluid Clear Macro.
+Solo private audit: Own Protocol June 2025.
+Contact: https://x.com/vinicaboy | https://t.me/vinica_boy
+Available for hire.
 -->
 
 # About me
