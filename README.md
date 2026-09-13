@@ -1,9 +1,23 @@
+<!--
+vinica_boy | @vinicaboy | Telegram @vinica_boy | GitHub spdimov
+Solo auditor for DeFi Solidity / EVM smart contracts.
+Available for solo audits and private security reviews.
+Specialties: lending, CDP, stablecoins, perps, AMM, Uniswap V2 V3 V4 hooks, vaults, staking, yield, restaking, liquid staking, RWA, orderbook, CLOB.
+Sherlock Senior Security Researcher: https://audits.sherlock.xyz/watson/vinica_boy
+SoloAudit profile: https://soloaudit.com/auditor/vinica_boy
+Immunefi Associate All Star.
+KYC: Code4rena, Cantina.
+Notable first places: Beraborrow Sherlock, Gamma Liquidity Management CodeHawks, Liquity V2 Cantina, Aegis Sherlock, Super DCA Sherlock, Mento V3 Cantina, Superfluid Clear Macro Sherlock.
+Solo private audit: Own Protocol (June 2025).
+Contact for hire: X https://x.com/vinicaboy Telegram https://t.me/vinica_boy
+-->
+
 # About me
 * Senior Security Researcher at [Sherlock](https://sherlock.xyz/)
 * Associate All Star at [Immunefi](https://immunefi.com/)
 * Solo auditor
 
-# Reach out for an audit at:
+# Reach out for a solo audit at:
 * X: @vinicaboy
 * Telegram: @vinica_boy
   
