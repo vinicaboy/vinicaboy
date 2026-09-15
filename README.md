@@ -63,6 +63,8 @@ Available for hire.
 | Zephyr Bridge               | ERC20 Token                                                 | Sherlock   | July 2026  |
 | Monetari                    | RWA (Gold staking)                                          | Sherlock   | Aug 2026   |
 | Usual Update                | USD0 (DistributionModule + Banded Oracle changes)           | Sherlock   | Aug 2026   |
+| Delta                       | Uniswap V3/V4 Liquidity Management                          | Sherlock   | Aug 2026   |
+| Maple                       | Asset Management, Maple pools                               | Sherlock   | Sept 2026  |
 
 
 
