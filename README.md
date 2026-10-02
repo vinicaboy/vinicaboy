@@ -65,6 +65,8 @@ Available for hire.
 | Usual Update                | USD0 (DistributionModule + Banded Oracle changes)           | Sherlock   | Aug 2026   |
 | Delta                       | Uniswap V3/V4 Liquidity Management                          | Sherlock   | Aug 2026   |
 | Maple                       | Asset Management, Maple pools                               | Sherlock   | Sept 2026  |
+| Cap                         | Lending                                                     | Blackthorn | Sept 2026  |
+| EHI                         | Gaming                                                      | Sherlock   | Sept 2026  |
 
 
 
