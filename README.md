@@ -67,6 +67,10 @@ Available for hire.
 | Maple                       | Asset Management, Maple pools                               | Sherlock   | Sept 2026  |
 | Cap                         | Lending                                                     | Blackthorn | Sept 2026  |
 | EHI                         | Gaming                                                      | Sherlock   | Sept 2026  |
+| Swap Monster                | RFQ (Canton/DAML)                                           | Sherlock   | Oct 2026   |
+| Quote Trade                 | Settlement layer of a trading protocol                      | Sherlock   | Nov 2026   |
+| Re.xyz                      | Oracle/NAV workflows                                        | Sherlock   | Nov 2026   |
+| bond.credit                 | Boring Vault configuration                                  | Sherlock   | Nov 2026   |
 
 
 
